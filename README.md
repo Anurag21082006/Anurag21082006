@@ -4,7 +4,7 @@
 <!--            HEADER BANNER / LOADING SCREEN     -->
 <!-- ============================================ -->
 
-<img align="center" src="https://via.placeholder.com/1200x400/0d0221/00fff9?text=ANURAG_21+%7C+INSERT+COIN" alt="Anurag_21 Retro Arcade Banner" width="100%"/>
+<img align="center" src="https://raw.githubusercontent.com/Anurag21082006/Anurag21082006/main/assets/banner.png" alt="Anurag_21 Banner" width="100%"/>
 
 <!-- 
   ⚠️ REPLACE THE PLACEHOLDER ABOVE ⚠️
